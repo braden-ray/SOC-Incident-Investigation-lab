@@ -37,7 +37,7 @@ The following suspicious activity was simulated within the lab environment:
 - Suspicious PowerShell execution
 - File download activity
 - Outbound network communication
-- Potential persistence behavior
+- Simulated suspicious process execution behavior
 
 ---
 

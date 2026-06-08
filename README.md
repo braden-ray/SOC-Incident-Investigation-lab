@@ -76,7 +76,6 @@ Captured and analyzed network traffic using Wireshark to identify:
 ## MITRE ATT&CK Mapping
 - T1059 – Command and Scripting Interpreter: PowerShell
 - T1105 – Ingress Tool Transfer
-- T1053 – Scheduled Task/Job
 
 ---
 
